@@ -590,12 +590,3 @@ class TdxTrader:
             if win32gui.IsWindowVisible(hdlg) and dlgprocessId == self.processId and self.threadId == dlgthread:
                 win32gui.PostMessage(hdlg, win32con.WM_CLOSE, 0, 0)
         return 0
-
-
-
-
-
-#print(myacc.send_order('600000',0,4.13,100))
-#myacc=TdxTrader('680600260','axzq')
-#print(myacc.send_order('600000',1,4.13,100))
-#print(myacc.cancel_order('505'))
