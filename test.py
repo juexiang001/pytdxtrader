@@ -1,4 +1,6 @@
-import tdxtrader.py
+import sys
+sys.path.append('.')
+import tdxtrader
 #创建user
 user = pytdxtrader.TdxTrader('1234','hbzq')
 #当日委托
