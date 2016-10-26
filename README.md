@@ -4,7 +4,9 @@ manipulate tdx by python.
 
 #开发环境: Windows 7 / Python 3.5
 
-# QQ群277699808
+# 讨论
+  QQ群277699808
+  
 
 #通达信版本:v6
 
@@ -17,3 +19,4 @@ pip install -r requirements.txt
 #引入:
 
 import pytdxtrader
+
