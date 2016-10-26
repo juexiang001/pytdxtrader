@@ -1,8 +1,10 @@
 # pytdxtrader
 
-manipulate tdx by python
+manipulate tdx by python.
 
 #开发环境: Windows 7 / Python 3.5
+
+# QQ群277699808
 
 #通达信版本:v6
 
